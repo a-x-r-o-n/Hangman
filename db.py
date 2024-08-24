@@ -126,6 +126,7 @@ movies = [
     'Slumdog Millionaire',
     'The Silence of the Lambs',
     'Deadpool',
+    'Deadpool 2'
     'The Big Short',
     'The Green Mile',
     'Ford V Ferrari',
