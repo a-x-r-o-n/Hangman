@@ -131,5 +131,6 @@ movies = [
     'The Green Mile',
     'Ford V Ferrari',
     'la la land',
-    'Oppenheimer'
+    'Oppenheimer',
+    '365 days'
 ]
