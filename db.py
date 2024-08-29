@@ -132,5 +132,8 @@ movies = [
     'Ford V Ferrari',
     'la la land',
     'Oppenheimer',
-    '365 days'
+    '365 days',
+    'creed',
+    'creed ii',
+    'creed iii'
 ]
