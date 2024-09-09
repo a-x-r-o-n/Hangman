@@ -138,5 +138,6 @@ movies = [
     'creed iii',
     'the irishman',
     'the big shave',
-    'tenet'
+    'tenet',
+    'the batman begins'
 ]
